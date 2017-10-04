@@ -1,3 +1,2 @@
-cd ~/Documents/projects/IA-rover/rover
 cd rover.shared && mvn clean install && cd ../rover.service && mvn clean install && cd ../rover.monitor && mvn clean install && cd ../rover && mvn clean install
-cd ~/Documents/projects/IA-rover/rover
+cd ..
